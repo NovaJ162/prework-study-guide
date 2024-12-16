@@ -1,13 +1,15 @@
-# <Your-Project-Title>
+# prework-study-guide
+A study guide for course pre-work.
+git checkout -b feature/project-README
+
+# Project Study Guide Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? - I would say I got the motivation to just keep pushing forward when i would see an error pop up.
+- Why did you build this project? - To show my family that I'm capable of working on a project and start to understand how to code.
+- What problem does it solve? - The feeling of being stuck and not doing anything.
+- What did you learn? - I learning different languages such as HTML, CSS, JavaScript, and Git while applying it to the project.
 
 ## Table of Contents (Optional)
 
@@ -24,7 +26,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use as a guide 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
@@ -54,7 +56,7 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
-If your project has a lot of features, list them here.
+N/A
 
 ## How to Contribute
 
